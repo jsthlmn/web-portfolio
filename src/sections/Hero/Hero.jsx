@@ -30,8 +30,8 @@ function Hero() {
         <p>
           With a passion for developing modern web apps for commercial bussiness.
         </p>
-        <a href={CV}>
-          <button className="hover" download>Resume</button>
+        <a href={CV} download>
+          <button className="hover">Resume</button>
         </a>
       </div>
     </section>
